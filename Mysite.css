@@ -1,0 +1,27 @@
+#header{
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    width: 800px; ;
+    background-color: rgb(233, 192, 205);
+}
+#container{
+    width: 800px;
+    padding: 10px;
+    margin: auto;
+    color: rgb(59, 118, 134);
+
+}
+#main {
+    min-height: 500px;
+}
+#image img{
+    width: 250px;
+    border-radius: 10px;
+}
+footer{
+    padding: 10px;
+    background-color: antiquewhite;
+    margin-left: 5px;
+    align-content: flex-end;
+}
