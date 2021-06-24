@@ -1,0 +1,66 @@
+#container{
+    padding: auto;
+    margin: auto;
+    width: 800px;
+}
+header{
+    border-bottom: black solid 2px;
+}
+#main {
+    min-height: 300px;
+    padding: 10px;
+}
+#main .img{
+    width: 300px;
+
+}
+#info{
+    margin-left: 30px;
+    display: inline-block;
+}
+#info .name{
+    color: brown;
+}
+#info button{
+    background-color: rgb(31, 146, 223);
+    color: purple;
+    padding: 20px;
+}
+footer{
+    width: 800px;
+    padding: 20px;
+    background-color: seagreen;
+}
+#box{
+    padding: 10px;
+    padding-left: 10px;
+    background-color: tan;
+    width: 800px;
+}
+#box h3{
+    color: red;   
+}
+#fill{
+    padding: 5px;
+    padding-left: 10px;
+    width: 800px;
+}
+#fill h3{
+    text-align: center;
+}
+#fill p{
+    padding: 1px;
+    text-align: center;
+}
+#page>ul{  
+}
+#page h4{
+    background-color: salmon;
+    width: 200px;
+}
+button{
+    padding: 10px;
+    padding-left: 10px;
+    background-color: rgb(224, 221, 28);
+    color:white;
+}

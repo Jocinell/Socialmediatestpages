@@ -1,0 +1,29 @@
+
+#container{
+    padding: 10px;
+    margin:auto;
+    width: 800px;
+}
+#content{
+    padding: auto;
+    margin: auto;
+    min-height: 500px;
+}
+h1{
+    padding: 10px;
+    margin: 10px;
+    text-shadow: lightslategrey;
+    color:black;
+}
+h2{
+    background-color: darkgray;
+}
+p{
+  background-color: white;  
+}
+footer{
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+    color:rgb(10, 10, 10);  
+}
