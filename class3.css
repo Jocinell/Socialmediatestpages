@@ -1,0 +1,50 @@
+#container{
+    background-color: rgb(248, 245, 245);
+    padding: 10px;
+    padding-right:50px;
+    width:auto;
+    margin: auto;
+    min-height: 500px;
+}
+header img{
+    width: 80px;
+    border-radius: 20px;
+}
+header input{
+    padding-top: 5px;
+    line-height: 20px;
+    width: 300px;
+}
+header>ul{
+    display: inline-flex;
+}
+#content h1{
+    padding: 50px;
+    font-size: 100px;
+}
+#info img{
+    padding-right: 10px;
+    width: 80px;
+    padding: 20px;
+    margin-left: 50px;
+    display:inline-block;
+    border-radius: 80px;
+    opacity: 50%; 
+}
+#info h4{
+    display:inline-block;
+
+}
+#info ul{
+    display:inline-block;
+    color: tomato;
+}
+#fill img{
+    margin-left: 30px;
+    width: 300px;
+    height: 400px;
+    border-radius: 50px;
+}
+hr{
+    padding top: 20px;
+}
