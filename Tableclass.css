@@ -1,0 +1,42 @@
+#container{
+    width: 800px;
+    margin: auto;
+}
+#container p{
+    display: inline-flex;
+    font-size: 50px;
+}
+#container img{
+    width: 80px;
+    height: 40px;
+    border-radius: 40px;
+}
+#features{
+display: inline-flex;
+}
+#features ul{
+    display: inline-flex;
+    list-style-type: none;
+}
+#features li{
+    padding-right: 20px;
+    color: blue;
+}
+#books ul{
+    display: block;
+    list-style-type:decimal;
+}
+#books li{
+    padding-bottom: 10px;
+    color: brown;
+}
+#Result table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td,th{
+    border: 1px solid #927777;
+    text-align: left;
+    padding: 8px;
+}

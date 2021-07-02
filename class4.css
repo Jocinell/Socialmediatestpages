@@ -1,16 +1,20 @@
 #container{
     width: 800px;
     margin: auto;
+    min-height: 400px;
 
 }
 #container img{
     width: 80px;
 }
 #menu{
-    display: inline-flex;
-    margin-left: 200px;
-    padding-top: 2px;
-    color: rgb(16, 122, 117);
+    float: right;
+}
+#menu ul{
+list-style-type: none;
+display: inline-flex;
+
+
 }
 #profile{
     display: inline-block;
@@ -18,12 +22,11 @@
     color: rgb(155, 30, 30);
 }
 #status img{
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    border-radius: 500px;
 }
 #content h1{
-    margin-left: 400px;
     color: rgb(12, 13, 14);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
@@ -32,21 +35,27 @@
     font-size: 20px;
 }
 #features img{
-    width: 500px;
-    height: 300px;
+    width: 200px;
+    height: 100px;
+
 } 
+#social{
+display: inline-block;
+}
 #social img {
+    display: inline-block;
     padding-bottom: 20px;
     margin-left: 800px;
-    display:block;
     width: 50px;
     border-radius: 300px;
 }
-#social h5{
-    padding-bottom: 0.1px;
-    margin-left: 880px;
 }
 footer{
-    background-color: cadetblue;
-    color: cornsilk;
+    background-color: darkcyan;
+    padding: 10px;
+    margin-top: 20%;
+}
+footer h6{
+    float: left;
+    width: 40%;
 }

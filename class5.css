@@ -1,0 +1,39 @@
+#upper{
+    width: 800px;
+    margin: auto;
+    background-color: black;
+    text-align: center;
+}
+#upper img{
+    width: 40px;
+    height: 20px;
+}
+#upper p{
+    padding: 10px;
+    display: inline-flex;
+    color: white;
+}
+#upper ul{
+    display: inline-flex;
+    list-style-type: none;
+    float: right;
+}
+#upper li{
+    float: right;
+    padding-right: 10px;
+    margin-left: 10px;
+    color: white;
+}
+#upper input{
+    margin-top: 10px;
+    float: right;
+}
+#next ul{
+display: inline-flex;
+list-style-type: none;
+text-align: center;
+}
+#next li{
+    color: black;
+    padding: 5px ;
+}
