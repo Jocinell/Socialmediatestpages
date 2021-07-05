@@ -1,0 +1,39 @@
+#container{
+    width: 800px;
+    margin: auto;
+    min-height: 500pxs;
+}
+#container h1{
+    padding: 10px;
+    background-color: rgb(82, 167, 167);
+    border-radius: 40px;
+}
+#container img{
+    margin:20px;
+    display: block;
+    padding-bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 130%;
+}
+#container p{
+    padding: 10px;
+    margin: 20px;
+    color: rgb(99, 114, 56);
+}
+#content{
+    float: right;
+}
+th,td{
+    border: 1px solid black;
+border-collapse: collapse;
+    padding: 5px;
+    margin-bottom: 20pxs;
+    
+}
+}
+footer{
+    padding: 20px;
+    float: left;
+    color: white;
+}
